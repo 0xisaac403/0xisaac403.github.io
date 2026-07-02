@@ -1,0 +1,47 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:3344/</id>
+  <title>Isaac</title>
+  <subtitle>Penetration testing &amp; Reverse Engineer &amp; CTF Palyer.</subtitle>
+  <updated>2026-07-02T03:55:36+03:00</updated>
+  <author>
+    <name>HossamEldin</name>
+    <uri>http://localhost:3344/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:3344/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:3344/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 HossamEldin </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Rubber Ducky With Pi Pico</title>
+    <link href="http://localhost:3344/posts/Rubber-Ducky-with-Pi-Pico/" rel="alternate" type="text/html" title="Rubber Ducky With Pi Pico" />
+    <published>2026-07-01T00:00:00+03:00</published>
+  
+    <updated>2026-07-01T00:00:00+03:00</updated>
+  
+    <id>http://localhost:3344/posts/Rubber-Ducky-with-Pi-Pico/</id>
+    <content type="text/html" src="http://localhost:3344/posts/Rubber-Ducky-with-Pi-Pico/" />
+    <author>
+      <name>HossamEldin</name>
+    </author>
+
+  
+    
+    <category term="Hardware" />
+    
+  
+
+  <summary>What is a USB Rubber Ducky? A USB Rubber Ducky is a device that appears as a keyboard to the target computer. When plugged in, it can execute pre-programmed keystrokes at incredible speeds, making it useful for security testing and demonstrations.  Why Pi Pico? The Raspberry Pi Pico offers several advantages:    Cost-effective alternative to commercial USB Rubber Ducky devices   Highly customiz...</summary>
+
+  </entry>
+
+</feed>
+
+
