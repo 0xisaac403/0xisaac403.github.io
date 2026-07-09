@@ -1,11 +1,11 @@
 ---
 title : "Rubber Ducky With Pi Pico"
 date : 2026-07-01  
-categories : [Hardware]
-tages : [Hardware_hack]
+categories : [hardware]
+tags : [hardware]
 
 image:
-    path:  /assets/img/posts/pico.jpg
+    path:  /assets/img/posts/rubber-ducky/pico.jpg
     alt : Pico Pi 
 ---
 
@@ -28,9 +28,9 @@ To use the Pi Pico as a USB HID device, you'll need to flash it with appropriate
 1. Pico Pi (RP2024)
 2. Convert male USB-Male Type male 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/assets/img/posts/1.jpg" width="300" alt="Pi Pico">
-  <img src="/assets/img/posts/2.jpg" width="300" alt="Adapter">
-  <img src="/assets/img/posts/3.jpg" width="300" alt="Final Device">
+  <img src="/assets/img/posts/rubber-ducky/1.jpg" width="300" alt="Pi Pico">
+  <img src="/assets/img/posts/rubber-ducky/2.jpg" width="300" alt="Adapter">
+  <img src="/assets/img/posts/rubber-ducky/3.jpg" width="300" alt="Final Device">
 </div>
 
 ### Steps :
@@ -110,8 +110,8 @@ tinygo flash -target=pico main.go
 - Here is a video example test of using the Pi Pico Rubber Ducky setup: 
 <div style="max-width: 600px">
           <video width="100%" height="315" controls>
-            <source src="/assets/img/posts/IMG_0542.MOV" type="video/mp4" />
-            <source src="/assets/img/posts//IMG_0542.MOV" type="video/quicktime" />
+            <source src="/assets/img/posts/rubber-ducky/IMG_0542.MOV" type="video/mp4" />
+            <source src="/assets/img/posts/rubber-ducky/IMG_0542.MOV" type="video/quicktime" />
             Your browser does not support the video tag.
           </video>
 </div>

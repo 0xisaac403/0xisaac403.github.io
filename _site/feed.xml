@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:3344/</id>
+  <id>http://localhost:4000/</id>
   <title>Isaac</title>
   <subtitle>Penetration testing &amp; Reverse Engineer &amp; CTF Palyer.</subtitle>
-  <updated>2026-07-02T03:55:36+03:00</updated>
+  <updated>2026-07-09T13:25:35+03:00</updated>
   <author>
     <name>HossamEldin</name>
-    <uri>http://localhost:3344/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:3344/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:3344/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 HossamEldin </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,21 +20,45 @@
 
   
   <entry>
-    <title>Rubber Ducky With Pi Pico</title>
-    <link href="http://localhost:3344/posts/Rubber-Ducky-with-Pi-Pico/" rel="alternate" type="text/html" title="Rubber Ducky With Pi Pico" />
-    <published>2026-07-01T00:00:00+03:00</published>
+    <title>KeyGen Challenge</title>
+    <link href="http://localhost:4000/posts/KeyGen-challenge/" rel="alternate" type="text/html" title="KeyGen Challenge" />
+    <published>2026-07-09T00:00:00+03:00</published>
   
-    <updated>2026-07-01T00:00:00+03:00</updated>
+    <updated>2026-07-09T00:00:00+03:00</updated>
   
-    <id>http://localhost:3344/posts/Rubber-Ducky-with-Pi-Pico/</id>
-    <content type="text/html" src="http://localhost:3344/posts/Rubber-Ducky-with-Pi-Pico/" />
+    <id>http://localhost:4000/posts/KeyGen-challenge/</id>
+    <content type="text/html" src="http://localhost:4000/posts/KeyGen-challenge/" />
     <author>
       <name>HossamEldin</name>
     </author>
 
   
     
-    <category term="Hardware" />
+    <category term="ctf" />
+    
+  
+
+  <summary>Lab Objectives    No patching   Create a KeyGen   Upload a solution + tutorial     Starting  Run the program:    Step 2: Open x64gdb for Analysis       Right Click → Search For → All Modules → String References   Go to the name string   Observe the breakpoint:        The instruction cmp eax, dword ptr ss:[ebp-30] is present.   Examine the eax register while the program runs.      This reveals t...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Rubber Ducky With Pi Pico</title>
+    <link href="http://localhost:4000/posts/Rubber-Ducky-with-Pi-Pico/" rel="alternate" type="text/html" title="Rubber Ducky With Pi Pico" />
+    <published>2026-07-01T00:00:00+03:00</published>
+  
+    <updated>2026-07-01T00:00:00+03:00</updated>
+  
+    <id>http://localhost:4000/posts/Rubber-Ducky-with-Pi-Pico/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Rubber-Ducky-with-Pi-Pico/" />
+    <author>
+      <name>HossamEldin</name>
+    </author>
+
+  
+    
+    <category term="hardware" />
     
   
 
