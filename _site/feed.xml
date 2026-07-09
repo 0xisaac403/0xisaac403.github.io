@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Isaac</title>
   <subtitle>Penetration testing &amp; Reverse Engineer &amp; CTF Palyer.</subtitle>
-  <updated>2026-07-09T13:25:35+03:00</updated>
+  <updated>2026-07-09T13:39:57+03:00</updated>
   <author>
     <name>HossamEldin</name>
     <uri>http://localhost:4000/</uri>
@@ -48,7 +48,7 @@
     <link href="http://localhost:4000/posts/Rubber-Ducky-with-Pi-Pico/" rel="alternate" type="text/html" title="Rubber Ducky With Pi Pico" />
     <published>2026-07-01T00:00:00+03:00</published>
   
-    <updated>2026-07-01T00:00:00+03:00</updated>
+    <updated>2026-07-09T13:27:02+03:00</updated>
   
     <id>http://localhost:4000/posts/Rubber-Ducky-with-Pi-Pico/</id>
     <content type="text/html" src="http://localhost:4000/posts/Rubber-Ducky-with-Pi-Pico/" />
