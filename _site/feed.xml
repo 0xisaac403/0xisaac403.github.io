@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Isaac</title>
   <subtitle>Penetration testing &amp; Reverse Engineer &amp; CTF Palyer.</subtitle>
-  <updated>2026-07-09T13:39:57+03:00</updated>
+  <updated>2026-09-19T22:02:05+03:00</updated>
   <author>
     <name>HossamEldin</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>What is Tor ,   How to host your Website on Tor</title>
+    <link href="http://localhost:4000/posts/What-'s-Tor-How-Host-Your_website-in-Tor/" rel="alternate" type="text/html" title="What is Tor ,   How to host your Website on Tor" />
+    <published>2026-09-19T00:00:00+03:00</published>
+  
+    <updated>2026-09-19T00:00:00+03:00</updated>
+  
+    <id>http://localhost:4000/posts/What-'s-Tor-How-Host-Your_website-in-Tor/</id>
+    <content type="text/html" src="http://localhost:4000/posts/What-'s-Tor-How-Host-Your_website-in-Tor/" />
+    <author>
+      <name>HossamEldin</name>
+    </author>
+
+  
+    
+    <category term="tor" />
+    
+  
+
+  <summary>Tor is one of the most well-known tools for anonymous browsing. In this article I’ll explain where it came from, how it works under the hood, and — as a bonus — how you can publish your very own site on the onion network.    1. Origins of Tor     Onion routing was invented to separate identification from routing → anonymous routing. Note the wording: it gives you anonymous routing — not anonymi...</summary>
+
+  </entry>
 
   
   <entry>
